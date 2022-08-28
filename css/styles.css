@@ -46,7 +46,7 @@ section article div{
 
 section article img {
     border-radius: 50%;
-    position: absolute;
+    position: relative;
     top: 280px;
 }
 
