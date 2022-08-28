@@ -29,6 +29,7 @@ section article{
     background-color: #F3F3F3;
     width: 300px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: relative;
 }
 
 section article div{
@@ -46,8 +47,8 @@ section article div{
 
 section article img {
     border-radius: 50%;
-    position: relative;
-    top: 280px;
+    position: absolute;
+    top: 130px;
 }
 
 section article h2 {
